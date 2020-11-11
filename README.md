@@ -1,2 +1,2 @@
 # TemperatureConverter
-This project is a simple converter from Celsius to Fahrenheit in java.
+This project is a simple converter from Fahrenheit to Celsius and Kelvin in java.
